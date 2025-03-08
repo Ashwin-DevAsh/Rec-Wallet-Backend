@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.725.0",
-    "axios": "^0.19.2",
+    "axios": "^1.8.2",
     "body-parser": "^1.19.0",
     "clicksend": "^5.0.37",
     "dotenv": "^8.2.0",
